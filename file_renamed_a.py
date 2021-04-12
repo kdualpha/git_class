@@ -1,1 +1,3 @@
 # comment
+class first:
+	pass
